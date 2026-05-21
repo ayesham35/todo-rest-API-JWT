@@ -5,7 +5,7 @@ A secure REST API for managing personal todos, built with Spring Boot and JWT au
 ## Tech Stack
 
 - Java 17
-- Spring Boot 3
+- Spring Boot 4
 - Spring Security + JWT
 - Spring Data JPA + Hibernate
 - H2 In-Memory Database
